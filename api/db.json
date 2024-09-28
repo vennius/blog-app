@@ -2,13 +2,13 @@
   "posts": [
     {
       "id": "1",
-      "title": "a title",
+      "title": "A Title",
       "views": 100,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime porro nisi nobis assumenda hic sit voluptas illum, dolore ad repellendus quibusdam molestias delectus sapiente architecto aliquam beatae nulla veniam fugiat?"
     },
     {
       "id": "2",
-      "title": "another title",
+      "title": "Another Title",
       "views": 200,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime porro nisi nobis assumenda hic sit voluptas illum, dolore ad repellendus quibusdam molestias delectus sapiente architecto aliquam beatae nulla veniam fugiat?"
     }
