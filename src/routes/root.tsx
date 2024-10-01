@@ -33,6 +33,7 @@ function Root() {
               releaseDate={el.releaseDate}
               views={el.views}
               preview={el.content.substring(0, 40)}
+              key={el.id}
             />
           ))}
         </div>

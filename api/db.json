@@ -11,11 +11,31 @@
       "title": "Another Title",
       "views": 200,
       "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime porro nisi nobis assumenda hic sit voluptas illum, dolore ad repellendus quibusdam molestias delectus sapiente architecto aliquam beatae nulla veniam fugiat?"
+    },
+    {
+      "id": "0cb5",
+      "title": "dfnn",
+      "views": 10,
+      "content": "srth uuu   yuk"
+    },
+    {
+      "id": "5cf1",
+      "title": "Shin Tae-yong Ungkap Syarat bagi Jens Raven untuk Masuk Timnas Senior",
+      "views": 10,
+      "content": "Menurut Shin, kemampuan Jens Raven saat ini sudah bagus tetapi belum memadai untuk menjadi bagian dari tim senior. \"Daya juang dan kekuatan fisiknya masih perlu ditingkatkan. Jika tidak, ia belum siap untuk bermain di timnas senior,\" ungkap pelatih asal Korea Selatan tersebut. Shin mengutarakan hal ini setelah menyaksikan pertandingan terakhir kualifikasi Piala Asia U20 2025 di mana Indonesia bermain imbang 1-1 melawan Yaman di Stadion Madya Gelora Bung Karno, Jakarta, pada Minggu (29/9/2024) malam WIB.\n\nPemain berusia 18 tahun ini sebelumnya mencuri perhatian dengan empat gol yang membawa Timnas U19 menjuarai Piala AFF U19 2024 di Surabaya pada Juli lalu. Meski memiliki catatan gol  mengesankan, Shin tidak ingin terburu-buru untuk memasukkan Raven ke dalam skuad senior yang sudah diisi oleh pemain-pemain seperti Ramadhan Sananta, Dimas Drajad, Rafael Struick, dan Ragnar Oratmangoen. Indra Sjafri, pelatih timnas U20, pun menyampaikan pandangannya mengenai perkembangan penyerang asal tim Dordrecht di Liga Belanda ini. Baca juga: Dukungan Keluarga Jadi Motivasi Jens Raven Kembali Gemilang di Timnas U20 Indonesia Ia berencana untuk membiarkan pemain muda ini berproses dan matang di timnas U20 sebelum dipertimbangkan untuk tim senior. \"Biarkan dia berkembang dan matang di timnya,\" ujarnya. Indra juga menambahkan bahwa diskusi antara dirinya dan Shin akan terus berlangsung mengenai potensi pemain U20 untuk dipromosikan ke tim U23 atau senior.\n"
     }
   ],
   "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
   ],
   "profile": {
     "name": "typicode"
